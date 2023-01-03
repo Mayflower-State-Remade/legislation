@@ -499,7 +499,7 @@ No laws of the State of Mayflower in operation at the time of ratification of th
 
 Signed,
 
-*Sam4219*
+*iBreeily*
 </br>
 Editor
 
@@ -507,58 +507,26 @@ Editor
 </br>
 Original Author
 
-*FrancisMedvedeva*
+*OfficerJohnsonYT*
 </br>
 Governor
 
-*Shad_A*
+*N/A*
 </br>
 Lieutenant Governor
 
-*Kezzera*
+*N/A*
 </br>
 Chief Justice
 
-*FrancisHUnderwood*
+*Bozzagga*
 </br>
 Attorney General
 
-*Disordio*
+*OfficerJohnsonYT*
 </br>
 Contributor
 
-*Justind20*
-</br>
-Contributor
-
-*ForeverSlippery*
-</br>
-Contributor
-
-*KingPaimonia*
-</br>
-Contributor
-
-*Zlatoustovo*
-</br>
-Contributor
-
-*Xiam*
-</br>
-Contributor
-
-*TheOneUnknownPilot*
-</br>
-Contributor
-
-*HubertModel*
-</br>
-Contributor
-
-*wentip*
-</br>
-Contributor
-
-*Floatmanjason*
+*Diedrich*
 </br>
 Colonel, State Police
