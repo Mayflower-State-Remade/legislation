@@ -259,20 +259,20 @@ c. New Haven County Goodison Courtroom (Sheriff’s Office Headquarters)
 
 #### Signatories
 
-*Xiam*
+*iBreeily*
 Head Author
 
-*SanguinePretender*
+*SergeantRichardBaker*
 County Sheriff
 
-*FireMarshaIBillBurns*
+*robert67hd*
 County Fire Chief
 
-*Tricknixon*
+*N/A*
 District Chief Judge
 
-*FrancisHUnderwood*
+*N/A*
 State Attorney General
 
-*Sam4219*
+*N/A*
 President pro-tempore
