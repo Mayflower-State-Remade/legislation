@@ -1,8 +1,8 @@
 # State of Mayflower Legislation
 
 <p align="left">
-  <a href="https://github.com/Mayfower-State-Remade/legislation/actions"><img
-    src="https://github.com/Mayfower-State-Remade/legislation/workflows/deploy/badge.svg?branch=master"
+  <a href="https://github.com/Mayflower-State-Remade/legislation/actions"><img
+    src="https://github.com/Mayflower-State-Remade/legislation/workflows/deploy/badge.svg?branch=master"
     alt="GitHub Action"
   /></a>
 </p>
