@@ -1,0 +1,43 @@
+site_name: State of Mayflower Legislation
+site_url: https://mayflower-state-remade.github.io/legislation/
+site_author: State Of Mayflower Remade
+site_description: Active legislation for the State of Mayflower Remade Roblox group
+repo_name: Mayflower-State-Remade/legislation
+repo_url: https://github.com/Mayflower-State-Remade/legislation
+
+theme:
+  name: material
+  features:
+    - tabs
+
+  logo: assets/logo.png
+  favicon: assets/favicon.ico
+
+  icon:
+    repo: fontawesome/brands/github
+
+  include_search_page: false
+  search_index_only: true
+
+  language: en
+
+plugins:
+  - search:
+      separator: '[\s\-]+'
+  - awesome-pages
+  - git-revision-date-localized:
+      type: date
+
+markdown_extensions:
+  - admonition
+  - footnotes
+  - toc:
+      permalink: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - attr_list
+  - md_in_html
+
+extra_css:
+- stylesheets/extra.css

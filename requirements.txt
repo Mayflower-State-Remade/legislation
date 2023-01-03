@@ -1,0 +1,8 @@
+mkdocs==1.2.3
+mkdocs-awesome-pages-plugin==2.2.1
+mkdocs-material==5.1.5
+mkdocs-material-extensions==1.0b2
+pymdown-extensions==7.1
+mkdocs-git-revision-date-localized-plugin==0.5.2
+Jinja2==2.10.1
+markupsafe==2.0.1
